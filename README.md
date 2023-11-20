@@ -1,4 +1,4 @@
-# Vinh's slicer profiles for cura
+# Vinh's Slicer Profiles for Cura
 Some slicer profiles I currently use for my set of filaments.
 
 Use at your own risk.
